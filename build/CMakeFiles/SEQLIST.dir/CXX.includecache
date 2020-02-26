@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/f/ubuntu/course/ds/homework1/inc/seqlist.h
+stddef.h
+-
+stdlib.h
+-
+iostream
+-
+
+/mnt/f/ubuntu/course/ds/homework1/src/main.cpp
+iostream
+-
+stdlib.h
+-
+string
+-
+../inc/seqlist.h
+/mnt/f/ubuntu/course/ds/homework1/inc/seqlist.h
+
+/mnt/f/ubuntu/course/ds/homework1/src/seqlist.cpp
+../inc/seqlist.h
+/mnt/f/ubuntu/course/ds/homework1/inc/seqlist.h
+

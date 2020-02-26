@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/SEQLIST.dir/src/main.cpp.o CMakeFiles/SEQLIST.dir/src/seqlist.cpp.o  -o ../bin/SEQLIST 

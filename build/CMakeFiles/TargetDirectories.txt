@@ -1,0 +1,3 @@
+/mnt/f/ubuntu/course/ds/homework1/build/CMakeFiles/rebuild_cache.dir
+/mnt/f/ubuntu/course/ds/homework1/build/CMakeFiles/SEQLIST.dir
+/mnt/f/ubuntu/course/ds/homework1/build/CMakeFiles/edit_cache.dir
